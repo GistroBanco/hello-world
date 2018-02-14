@@ -1,3 +1,2 @@
 # hello-world
-# my first repo
-# GistroBanco is in da house!
+GistroBanco is in da house!
